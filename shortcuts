@@ -1,0 +1,28 @@
+-E --> preprocessing 
+-P --> No debug symbols 
+-S --> assembly code 
+-c --> object file 
+
+
+relocatable --> OBJECT NOT EXE
+LSB --> numbers are ordered in memory with their LSBs first!-E --> preprocessing 
+-P --> No debug symbols 
+-S --> assembly code 
+-c --> object file 
+
+
+relocatable --> OBJECT NOT EXE
+LSB --> numbers are ordered in memory with their LSBs first! 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
